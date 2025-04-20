@@ -1,4 +1,4 @@
-
+## This repository implements a hierarchical, self-improving multi-agent system wherein a master agent dynamically decomposes complex tasks and spawns specialized AI sub-agents that coordinate via pub/sub messaging, share knowledge through a graph database, and iteratively refine their behaviors using evolutionary algorithms and reinforcement learning loops.​
 
 ## ✨ Features  
 - **Dynamic Agent Generation**: Auto‑spawn workers based on task graphs, inspired by AutoGPT’s recursive decomposition.  
